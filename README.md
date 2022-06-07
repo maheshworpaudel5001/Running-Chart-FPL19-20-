@@ -1,2 +1,2 @@
 # FPL 2019/20
-This repository has excel files with FPL scores from the season 19/20 that I played with 15 other friends. Importing the excel file to python, I have used matplotlib.animation to create a running chart.
+This repository has excel files with FPL scores from the season 19/20 that I played with 15 other friends. I have written python codes in jupyter notebook that imports the excel file FPL2021.xlsx. This excel file has the cumulative scores in each gameweeks of each players. Then my code modifies the data and use it to to create a running chart of the scores of each players. I have explained in details of how I am doing it in the jupyter notebook.
